@@ -6,5 +6,5 @@ This community is open to all experience levels, especially those who love data 
 
 Please make sure to join both meetup and slack group to keeo yourself update. Links are below:
 
-### [Meetup Page](https://www.meetup.com/Aspiring-Data-Scientist-Community/**)
+### [Meetup Page](https://www.meetup.com/Aspiring-Data-Scientist-Community/)
 ### [Slack](https://aspiring-ds-community.slack.com/)
